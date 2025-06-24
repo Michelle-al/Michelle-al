@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>I'm passionate about backend development but, i think that it's important to be comfortable with frontend too.</h4>
 
+<p>I'm passionate about backend development but, i think that it's important to be comfortable with frontend too.</p>
 
+### Other projects
+[See more](https://github.com/CDA-REM)
 
 ### Languages and Tools:
 
